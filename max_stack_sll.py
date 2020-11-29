@@ -3,7 +3,7 @@
 # Assignment: Assigment 3
 # Description: Your Very Own Linked List
 # Description2: Max Stack ADT
-# Date : 20/27/2020
+
 
 
 from sll import *
