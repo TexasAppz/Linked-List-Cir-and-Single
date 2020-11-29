@@ -3,7 +3,7 @@
 # Assignment: Assigment 3
 # Description: Your Very Own Linked List
 # Description2: Queue From Two Stacks
-# Date : 20/27/2020
+
 
 from max_stack_sll import *
 
