@@ -3,7 +3,7 @@
 # Assignment: Assigment 3
 # Description: Your Very Own Linked List
 # Description2: Circular Doubly Linked List
-# Date : 20/27/2020
+
 
 class CDLLException(Exception):
     """
